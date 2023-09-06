@@ -24,11 +24,12 @@ Before you begin, ensure that you have the following prerequisites:
 
 ### AWS
 
+- Setup your AWS credential e.g. using `leapp`
 - Create/Import into EC2 Key Pairs your ssh key
 - Provide into `cfn-ec2-stack.yaml` Key pair name AND region specific AMI IDs
 - Make sure that in `inventory.aws_ec2.yaml` you have correct region
 - Deploy cfn stack using `rain`
-- Test inventory via `ansible-inventory`
+- Test inventory via `ansible-inventory -i [path_to_aws_dyna_inventory_file]`
 - Test connectivity via `ping.yaml` playbook
 
 ## Usage
