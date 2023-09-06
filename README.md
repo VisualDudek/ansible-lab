@@ -1,6 +1,6 @@
 # Ansible Lab Repository
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/VisualDudek/ansible-lab?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/VisualDudek/ansible-lab?quickstart=1)
 
 Welcome to my private Ansible lab repository! This repository is designed to help me learn and experiment with Ansible, an open-source automation tool for configuring and managing systems.
 
