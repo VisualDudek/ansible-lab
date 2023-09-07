@@ -1,5 +1,9 @@
 
 
+### Tools for validating playbooks
+- Ansible Lint
+- yamllint
+
 ### Folder structure
 
 ```txt
