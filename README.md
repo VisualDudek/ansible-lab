@@ -1,5 +1,6 @@
 
-[![GitHub Workflow Status - CI](https://github.com/VisualDudek/ansible-lab/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/VisualDudek/ansible-lab/actions/workflows/blank.yml)
+[![GitHub Workflow Status - CI](https://github.com/VisualDudek/ansible-lab/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/VisualDudek/ansible-lab/actions/workflows/blank.yml) [![Python do the yamllint](https://github.com/VisualDudek/ansible-lab/actions/workflows/python-yamllint.yml/badge.svg?branch=main)](https://github.com/VisualDudek/ansible-lab/actions/workflows/python-yamllint.yml)
+
 
 # Ansible Lab Repository
 
