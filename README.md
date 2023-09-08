@@ -1,5 +1,5 @@
 
-![GitHub Workflow Status - CI](https://https://github.com/VisualDudek/ansible-lab/workflows/CI/badge.svg)](https://github.com/VisualDudek/ansible-lab/actions)
+[![GitHub Workflow Status - CI](https://github.com/VisualDudek/ansible-lab/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/VisualDudek/ansible-lab/actions/workflows/blank.yml)
 
 # Ansible Lab Repository
 
