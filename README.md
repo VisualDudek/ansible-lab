@@ -1,3 +1,6 @@
+
+![GitHub Workflow Status - CI](https://https://github.com/VisualDudek/ansible-lab/workflows/CI/badge.svg)](https://github.com/VisualDudek/ansible-lab/actions)
+
 # Ansible Lab Repository
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/VisualDudek/ansible-lab?quickstart=1)
