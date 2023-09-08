@@ -9,3 +9,4 @@ editing: `/etc/ansible/ansible.cfg` or `~/.ansible.cfg`:
 [defaults]
 host_key_checking = False
 ```
+TODO: further investigation
